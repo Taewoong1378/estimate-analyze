@@ -98,8 +98,6 @@ estimate-analyze/
 
     ```env
     GEMINI_API_KEY="YOUR_GOOGLE_AI_API_KEY_HERE"
-    PETERPANZ_IDENTIFIER_ID="your_identifier_id_here"
-    PETERPANZ_ORDER_ID="your_order_id_here"
     ```
 
     **주의:** `.env` 파일은 민감한 정보를 포함하므로, Git 버전 관리에서 제외하는 것이 일반적입니다. (`.gitignore` 파일에 `.env`를 추가하세요).
