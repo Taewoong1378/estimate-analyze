@@ -1,0 +1,8 @@
+requests
+python-dotenv
+beautifulsoup4
+geopy
+openpyxl
+pandas
+google-genai
+tqdm

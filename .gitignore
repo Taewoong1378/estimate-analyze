@@ -1,0 +1,7 @@
+.env
+__pycache__
+.DS_Store
+reanalysis.log
+convergence_analysis.json
+peterpanz_initial_analysis.xlsx
+peterpanz_reanalysis_round_1.json
